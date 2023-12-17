@@ -1,5 +1,5 @@
 baseURL = 'https://duanjls.github.io/Duans-News-Website/'
-languageCode = 'en-us'
+languageCode = 'zh'
 publishDir= 'docs'
 title = '我的新闻页'
 theme = 'ananke'
