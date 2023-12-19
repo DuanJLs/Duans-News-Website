@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://duanjls.github.io/Duans-News-Website/posts/3/</loc>
+  </url><url>
+    <loc>https://duanjls.github.io/Duans-News-Website/posts/first/</loc>
+  </url><url>
+    <loc>https://duanjls.github.io/Duans-News-Website/posts/second/</loc>
+  </url><url>
     <loc>https://duanjls.github.io/Duans-News-Website/</loc>
   </url><url>
     <loc>https://duanjls.github.io/Duans-News-Website/categories/</loc>
@@ -9,7 +15,5 @@
     <loc>https://duanjls.github.io/Duans-News-Website/posts/</loc>
   </url><url>
     <loc>https://duanjls.github.io/Duans-News-Website/tags/</loc>
-  </url><url>
-    <loc>https://duanjls.github.io/Duans-News-Website/posts/first/</loc>
   </url>
 </urlset>

@@ -3,3 +3,9 @@ languageCode = 'zh'
 publishDir= 'docs'
 title = 'acdNews'
 theme = 'ananke'
+canonifyurls = true
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
